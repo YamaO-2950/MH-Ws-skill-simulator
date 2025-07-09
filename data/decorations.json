@@ -1,0 +1,77 @@
+[
+  {
+    "name": "加護珠【1】",
+    "slot": 1,
+    "skills": [{"name": "精霊の加護", "level": 1}]
+  },
+  {
+    "name": "強走珠【1】",
+    "slot": 1,
+    "skills": [{"name": "ランナー", "level": 1}]
+  },
+  {
+    "name": "植学珠【1】",
+    "slot": 1,
+    "skills": [{"name": "植生学", "level": 1}]
+  },
+  {
+    "name": "持続珠【1】",
+    "slot": 1,
+    "skills": [{"name": "アイテム使用強化", "level": 1}]
+  },
+  {
+    "name": "早食珠【1】",
+    "slot": 1,
+    "skills": [{"name": "早食い", "level": 1}]
+  },
+  {
+    "name": "早復珠【1】",
+    "slot": 1,
+    "skills": [{"name": "回復速度", "level": 1}]
+  },
+  {
+    "name": "速納珠【1】",
+    "slot": 1,
+    "skills": [{"name": "納刀術", "level": 1}]
+  },
+  {
+    "name": "耐衝珠【1】",
+    "slot": 1,
+    "skills": [{"name": "ひるみ軽減", "level": 1}]
+  },
+  {
+    "name": "耐震珠【1】",
+    "slot": 1,
+    "skills": [{"name": "耐震", "level": 1}]
+  },
+  {
+    "name": "耐絶珠【1】",
+    "slot": 1,
+    "skills": [{"name": "気絶耐性", "level": 1}]
+  },
+  {
+    "name": "耐毒珠【1】",
+    "slot": 1,
+    "skills": [{"name": "毒耐性", "level": 1}]
+  },
+  {
+    "name": "耐氷珠【1】",
+    "slot": 1,
+    "skills": [{"name": "氷耐性", "level": 1}]
+  },
+  {
+    "name": "耐眠珠【1】",
+    "slot": 1,
+    "skills": [{"name": "睡眠耐性", "level": 1}]
+  },
+  {
+    "name": "地学珠【1】",
+    "slot": 1,
+    "skills": [{"name": "地質学", "level": 1}]
+  },
+  {
+    "name": "無食珠【1】",
+    "slot": 1,
+    "skills": [{"name": "腹減り耐性", "level": 1}]
+  }
+]
